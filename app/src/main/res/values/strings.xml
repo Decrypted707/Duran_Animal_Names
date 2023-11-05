@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Duran\'s Animal Names</string>
+    <string name="manage_block_animals">Manage Block Animals</string>
+    <string name="unblock">Unblock</string>
+</resources>
